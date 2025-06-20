@@ -2,3 +2,4 @@
 
 ## 🔎 Fase: Set + Seek
 
+Termino mi fase de investigación. 

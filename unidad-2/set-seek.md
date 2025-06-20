@@ -2,3 +2,4 @@
 
 ## 🔎 Fase: Set + Seek
 
+Comencé a trabajar en la unidad número 2.
